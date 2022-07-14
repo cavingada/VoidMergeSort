@@ -1,2 +1,4 @@
 # VoidMergeSort
-mergesorts values from a file using high-level I/O, void pointers, and function pointers
+A C program to sort files of ints or doubles. The files will be sorted
+using merge sort. In this project, mergesort implements pointers, pointer conversion, file
+reading, type conversion, function pointers, and basic makefiles.
